@@ -149,10 +149,10 @@ params:
     content: |-
       I am a Machine learning engineer with a great love and passion for Artificial Intelligence. To pursue my interest, I decided to embark on the academic journey of completing Master degree in the United Kingdom. I am a recent graduate of Masters in data science and analytics from University of Leeds. I also bring to the table a strong understanding of network security as I worked in the network security domain at one of the biggest networking company. 
       
-      Puzzles have always been something I've loved since I was small. So that's how I view large data sets: as a single, complex puzzle that needs to be solved. The challenge for me is identifying patterns that nobody else notices.
+      Puzzles have always been something I've loved since I was small. That's how I view large data sets: as a single, complex puzzle that needs to be solved. The challenge for me is identifying patterns that nobody else notices.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few technologies I've been working on recently:"
       items:
         - "Python and R programming"
         - "Machine Learning and Deep Learning"
@@ -175,9 +175,9 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: "I am currently working on phishing domain detection project.
-            The resposibilities includes:
+            The resposibilities include:
 
-          - Utilizing python to implement supervised machine learning technique to predict if the domain is fake or not.
+          - Utilizing python to implement supervised machine learning system to predict if the domain is malicious.
 
           - Compare different techniques, optimize the model for best performance.
 
@@ -193,8 +193,8 @@ params:
           enable: true
           content: As part of a research project
         content: |
-          I worked on implementing music recommendation pipeline
-          - Utilized python to implement different unsupervised machine learning techniques for content based recommender system.
+          I worked on implementing music recommendation pipeline.
+          - Utilized python to implement different algorithms for content based recommender system, customizing and optimizing the model based on the requirement.
           - Performed various feature engineering and feature selection techniques to reduce the artist popularity bias.
           - Wrangled 3TB of playlist data stored using SQLite from JSON and visualized insights using powerBI
 
@@ -322,13 +322,13 @@ params:
         date: "2022 - 2023"
         GPA: "3.8 out of 5.0(expected)"
         content: |-
-          It is a one year course with following relevant modules :
-            - Data Science - Data variable categories, Data preprocessing, feature engineering techniques, Data visualization using tableau and powerBI
-            - Python and R programming for Data science
-            - Statistical theory and methods - Statistical models, estimators, statistical tests, bayesian inference
-            - Machine Learning  - Various algorithms like SVM, Descision tree, Random forest and their applications in practical usecases.
-            - Deep Learning - MLP, CNN, RNN to complex models like GAN, tranformers, BERT
-            - Statistical learning - Regression and classification, tree based algorithms, assesing fitted models mathematically.
+          It was a 1 year course with following relevant modules :
+            - Data Science - Understanding of Data variable categories, Data preprocessing, feature engineering techniques, Data visualization using Tableau and PowerBI.
+            - Python and R programming for Data science.
+            - Statistical theory and methods - Understood different Statistical models, Estimators, Statistical tests, Bayesian inference.
+            - Machine Learning  - Learnt various algorithms like SVM, Descision tree, Random forest and their applications in practical usecases.
+            - Deep Learning - Implementing MLP, CNN, RNN to operation of complex models like GAN, tranformers, BERT.
+            - Statistical learning - The techniques of Regression and classification, tree based algorithms, assessed fitted models mathematically.
             - Learnt to mathematically solve various case studies using data.
 
       - title: "Bachelor of Engineering in Electronics and Conmmunication"
@@ -338,7 +338,7 @@ params:
         date: "2015 - 2019"
         GPA: "9.32 out of 10"
         content: |-
-          It is a 4 year degree. I enjoyed a core Electronics program with additional coding modules of C, C++, Python and Object Oriented programming. The following are my 2 greatest achivements.
+          It was a 4 year degree. I enjoyed a core Electronics program with additional coding modules of C, C++, Python and Object Oriented programming. The following are my 2 greatest achivements.
           - Project "Cleft Speech training system" affiliated with JSS Dental College, Mysore is in the process of patent.
           - Presented technical research paper titled "Design and Deployment of Sensor System".
 
