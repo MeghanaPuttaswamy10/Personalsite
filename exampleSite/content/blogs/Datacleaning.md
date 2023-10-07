@@ -15,13 +15,13 @@ toc:
 ---
 ## Why does data cleaning matter?
 
-College is a whirlwind of lectures, assignments, and caffeinated study sessions. Amidst the chaos, I stumbled upon a project of image segmentation, to me at the time, would turn out to be my first encounter with the enigmatic world of machine learning. I had no idea that we start the project by cleaning the data. I used to think to myself how in the world can you clean a image dataset but little did I know that became the cause for the failure of the project. No matter what type of the data we are working with, data quality is very crucial to obtain best performing model.
+College is a whirlwind of lectures, assignments, and caffeinated study sessions. Amidst the chaos, I stumbled upon my first machine learning project on image segmentation, would turn out to be my first encounter with the world of machine learning. I had no idea that we start the project by cleaning the data. I used to think to myself how in the world can you clean a image dataset but little did I know that became the cause for the failure of the project. No matter what type of the data we are working with, data quality is very crucial to obtain best performing model.
 
 ---
 
 ## what is data cleaning?
 
-Data cleaning is the artistic endeavor of guaranteeing that data is pristine, harmonious, and ready for use. One can purify data by discerning inaccuracies or impurities, remedying or expunging them, or meticulously handling the data as required to avert the recurrence of such inaccuracies.
+Data cleaning is the artistic endeavor of guaranteeing that data is pristine, harmonious, and ready for use. One can purify data by reducing inaccuracies or impurities,  or meticulously handling the data as required to avert the recurrence of such inaccuracies.
 
 While the majority of data cleansing can be accomplished through the aid of software tools, a certain portion necessitates the touch of human finesse. Although this might seem like a daunting task, it is an essential aspect of managing a company's data.
 
