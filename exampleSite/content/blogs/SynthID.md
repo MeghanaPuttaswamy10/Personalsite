@@ -9,7 +9,7 @@ tags:
   - AI
   - Image generation
 image: /images/SynthID.PNG
-description: ""
+description: "from google deepmind"
 toc: 
 ---
 

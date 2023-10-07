@@ -15,15 +15,15 @@ toc:
 ---
 ## Why does data cleaning matter?
 
-College is a whirlwind of lectures, assignments, and caffeinated study sessions. Amidst the chaos, I stumbled upon my first machine learning project on image segmentation, would turn out to be my first encounter with the world of machine learning. I had no idea that we start the project by cleaning the data. I used to think to myself how in the world can you clean a image dataset but little did I know that became the cause for the failure of the project. No matter what type of the data we are working with, data quality is very crucial to obtain best performing model.
+College is a whirlwind of lectures, assignments, and caffeinated study sessions. Amidst the chaos, I had to finish my first machine learning project on image segmentation, would turn out to be my first encounter with the world of machine learning. I had no idea that we start the project by cleaning the data. I used to think to myself how in the world can you clean a image dataset but little did I know that became the cause for the failure of the project. No matter what type of the data we are working with, data quality is very crucial to obtain best performing model.
 
 ---
 
 ## what is data cleaning?
 
-Data cleaning is the artistic endeavor of guaranteeing that data is pristine, harmonious, and ready for use. One can purify data by reducing inaccuracies or impurities,  or meticulously handling the data as required to avert the recurrence of such inaccuracies.
+Data cleaning is the artistic endeavor of guaranteeing that data meets the criteria and ready for use. One can purify data by reducing inaccuracies,  or meticulously handling the data as required to reduce the recurrence of such inaccuracies.
 
-While the majority of data cleansing can be accomplished through the aid of software tools, a certain portion necessitates the touch of human finesse. Although this might seem like a daunting task, it is an essential aspect of managing a company's data.
+While the majority of data cleaning can be accomplished through the aid of software tools, a certain portion necessitates human effort. Although this might seem like a daunting task, it is an essential aspect of managing a company's data.
 
 ---
 
@@ -88,7 +88,7 @@ Maintain a single standard meaning to data values throughout the data. For insta
 
 ---
 
-In the above techniques we mostly spoke about numerical data, what if it is a text data in case of NLP or image data in case of Computed vision. Further, these techniques can be built upon to suite respective use case. For instance, if we are building a face recognition system, the images that do not have face or in a different posture that does not make face visible is of no use and thus can be discarded as part of data cleaning. When it comes to NLP, there are techniques to translate the entire document to one language which is further easy to process.
+In the above techniques we mostly spoke about numerical data, what if it is a text data in case of Natural Language Processing or image data in case of Computed Vision. Further, these techniques can be built upon to suite respective use case. For instance, if we are building a face recognition system, the images that do not have face or in a different posture that does not make face visible is of no use and thus can be discarded as part of data cleaning. When it comes to NLP, there are techniques to translate the entire document to one language which is further easy to process.
 
 
-While it can sometimes be time-consuming to clean your data, it will cost you more than just time if you skip this step. “Dirty” data can lead to a whole host of issues, so you want it clean before you begin your analysis. 
+While it can sometimes be time-consuming to clean your data, it will cost you more than just time if you skip this step. “Dirty” data can lead to a whole host of issues, so we want it clean before we begin your analysis. 
