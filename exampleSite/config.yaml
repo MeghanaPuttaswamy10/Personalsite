@@ -183,8 +183,25 @@ params:
           - Transformed raw data into actionable insights through advanced techniques in data cleaning, feature engineering, and selection.
           - Significantly improved the content-based filtering algorithm, reducing artist popularity bias by an unprecedented 80% and resulting in a 30% increase in user satisfaction for 200 test users.
           - Effectively communicated improvements and results to stakeholders (research team) through visualizations using Power BI.
+      
+      - job: "Data Science Project Intern"
+        company: "RPG Cables"
+        companyUrl: "https://example.com"
+        date: "Jan 2019 - Jul 2022"
+        info:
+          enable: true
+          content: Consumer complaint analysis
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: |
+          I Worked as part of a analytics team.
+          - Constructed a scalable machine learning pipeline for accurately predicting whether a consumer complaint would be disputed or not.
+          - Developed a robust hybrid model using a combination of XGBoost and a supervised algorithm, integrating meticulously engineered features including sentiment analysis and temporal patterns. The model was able to successfully achieve 88% accuracy (20% more than the base model).
+          - Improved model performance through meticulous optimization techniques, resulting in a reduction of false negatives by an impressive 15%.
+        
 
-      - job: "Security Consulting Engineer"
+      - job: "Technical Consulting Engineer (Software)"
         company: "Cisco Systems"
         companyUrl: "https://example.com"
         date: "Jan 2019 - Jul 2022"
@@ -196,13 +213,16 @@ params:
           url: "https://example.com"
         content: |
           I Worked as part of a client facing team.
-          - provided zero day and product lifetime support to over 1000 clients around the world.
-          - Produced high-level and low-level design documents to outline new network design.
-          - Involved in analizing log data, vulnerabilities and network traffic to identify patterns and anomolies
-          - Conducted client presentations, effectively communicating complex technical concepts to non-technical stakeholders.
-          - Utilized python scripts for log analysis, cutting team response time by 50%.
+          - Troubleshoot Cisco Firepower with a focus on Linux subprocesses, analyzing & monitoring the data generated saving 3000+ hours of business impact.
+          - Worked on integration of docker & Kubernetes services with NGFW on cloud services like AWS and Azure.
+          - Developed model for analyzing network traffic and logs to proactively detect anomalies, performed manual testing and deployed beta version for 10+ clients, reducing more than 50% manual efforts by network engineers.
+          - Launched a Webex bot for ASA firewall best practices, release notes and EoL dates reducing support response time from 1 minute to 20 seconds for a team of 60.
+          - Reduced escalation time by 30% through a sentiment analysis-based bot. Integrated seamlessly into CSOne using BDB scripts, saving 20% in case management time for over 200 cases.
+          - Spearheaded agile development cycle to design and execute numerous UI features to build a health monitoring dashboard in Cisco NGFW and Firepower based on customer requirements.
+          - Facilitated weekly technical training for new hires, promoting knowledge retention and efficient use of analytical tools.
+  
 
-      - job: "Summer Intern"
+      - job: "Product Analyst Intern"
         company: "IISc"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
@@ -210,9 +230,8 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          I worked as a Summer intern at Systems Engineering Facility, Centre for Nano Science & Engineering(CeNSE), Indian Institute of Science(IISc), Bangalore, under the CTO, Dr. Vijay Mishra
-
-          - Designed a multi sensor system monitoring air quality, Envirobat 2.1. The collected data was uploaded and plotted on thingspeak, an opensource IoT platform via Raspberry Pi as the node.
+          I worked as part of software defined networking team.
+          - Developed a Python-based log parser with MongoDB and JSON for tracking stateful Cisco Application Centric Infrastructure, automating multi-level log analysis.
           - Performed signal conditioning for the readout system design of a custom-made NO2 gas sensor.
 
 # Achievements
