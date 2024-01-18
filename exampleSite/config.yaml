@@ -166,22 +166,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Project Intern"
-        company: "iNeuron.ai"
-        #companyUrl: "https://example.com"
-        date: "Sep 2023 - present"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working on phishing domain detection project.
-            The resposibilities include:
-
-          - Utilizing python to implement supervised machine learning system to predict if the domain is malicious.
-
-          - Compare different techniques, optimize the model for best performance.
-
-          - Host the best performing model in a cloud platform."
+      
       - job: "Industrial Dissertation"
         company: "Spotify Research"
         companyUrl: "https://example.com"
@@ -191,12 +176,13 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: As part of a research project
+          Content: Popularity bias analysis and mitigation, Music recommendation Pipeline
         content: |
           I worked on implementing music recommendation pipeline.
-          - Utilized python to implement different algorithms for content based recommender system, customizing and optimizing the model based on the requirement.
-          - Performed various feature engineering and feature selection techniques to reduce the artist popularity bias.
-          - Wrangled 3TB of playlist data stored using SQLite from JSON and visualized insights using powerBI
+          - Managed the wrangling and migration of a massive 3TB playlist data from JSON to SQLite.
+          - Transformed raw data into actionable insights through advanced techniques in data cleaning, feature engineering, and selection.
+          - Significantly improved the content-based filtering algorithm, reducing artist popularity bias by an unprecedented 80% and resulting in a 30% increase in user satisfaction for 200 test users.
+          - Effectively communicated improvements and results to stakeholders (research team) through visualizations using Power BI.
 
       - job: "Security Consulting Engineer"
         company: "Cisco Systems"
@@ -243,7 +229,7 @@ params:
         #image: /images/achievment.jpg
       - title: National means cum merit scholarship
         content: Received scholarship from Karnataka state education department after qualifying in state-level competitive exam, NNMSE..
-        url: "https://github.com/gurusabarish/hugo-profile"
+        #url: "https://github.com/gurusabarish/hugo-profile"
         #image: /images/achievment.jpg
       
   # projects
